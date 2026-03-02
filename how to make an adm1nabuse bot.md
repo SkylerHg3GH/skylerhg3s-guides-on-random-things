@@ -16,7 +16,10 @@ import system.lib.minescript as ms
 import time
 import shlex
 ```
-well that's nice
+well that's nice<br>
+system.lib.minescript allows you to import well the minescript library so you can do Literally Anything<br>
+time is for the message queue (for waiting and my other cmds)<br>
+and shlex is a shell like lexical library to parse your arguments<br>
 
 ## Create the event handler
 To create an event handler, add `with ms.EventQueue() as events:` <br>
