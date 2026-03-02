@@ -19,7 +19,7 @@ import shlex
 well that's nice
 
 ## Create the event handler
-To create an event handler, add `with ms.EventQueue() as events:` 
+To create an event handler, add `with ms.EventQueue() as events:` <br>
 Here's an example of the thing i do for my bot
 ```
 with ms.EventQueue() as events:
